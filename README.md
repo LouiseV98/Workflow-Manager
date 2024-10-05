@@ -61,4 +61,4 @@ Para el caso contrario, utilizaré la biblioteca responses para simular una caí
 Podemos ver que el flujo se creó y funciona correctamente.
 También lo podemos comprobar en el dashboard.
 
-![Tutorial5](images/10.png)
+![Tutorial6](images/13.png)
