@@ -50,7 +50,12 @@ Si es la primera vez que creas una implementación, por lógica, la implementaci
 
 Una vez ejecutemos el script, podremos ver mensajes en la consola, así como la implementación en Deployments en el servidor del navegador.
 
-![Tutorial5](images/12.png)
+![Tutorial5](images/13.png)
+
+Podemos ver que la tarea ha sido completada correctamente y que esta otra programada para ejecutarse dentro de unos segundos (30).
+Así podremos tener control sobre los servicios de PlayStation, ya que cada cierto tiempo el servidor estará monitoreando su estado. 
+Para el caso contrario, utilizaré la biblioteca responses para simular una caída del servidor.
+
 
 Podemos ver que el flujo se creó y funciona correctamente.
 También lo podemos comprobar en el dashboard.
