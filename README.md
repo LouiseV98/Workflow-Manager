@@ -26,3 +26,12 @@ Nos deberá aparecer este mensaje el cual nos da un enlace directo que abrirá e
 Veremos el dashboard en el navegador:
 
 ![Tutorial2](images/6.png)
+
+Esta herramienta contiene muchas funciones las cuales no describiré, solamente me enfocaré en lo que utilicé para crear el ejemplo.
+Para fines de prueba, usé esta biblioteca en Python para simular respuestas de un servidor no disponible:
+```bash
+pip install responses
+```
+En el dashboard tenemos una opción llamada Deployments en la cual podemos monitorear todas las implementaciones que hemos hecho utilizando el servidor, en este caso creé una implementación llamada playstation-monitor la cual deberá aparecer en el dashboard.
+
+![Tutorial3](images/8.png)
