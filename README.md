@@ -50,3 +50,9 @@ Si es la primera vez que creas una implementación, por lógica, la implementaci
 
 Una vez ejecutemos el script, podremos ver mensajes en la consola, así como la implementación en Deployments en el servidor del navegador.
 
+![Tutorial5](images/12.png)
+
+Podemos ver que el flujo se creó y funciona correctamente.
+También lo podemos comprobar en el dashboard.
+
+![Tutorial5](images/10.png)
