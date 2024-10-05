@@ -38,6 +38,15 @@ En el dashboard tenemos una opción llamada Deployments en la cual podemos monit
 ![Tutorial3](images/8.png)
 
 Vendría siendo la tercera en la lista.
-De momento esta como "No Ready" ya que aun no he ejecutado el script en Python para que comience a funcionar.
+De momento esta como "Not Ready" ya que aun no he ejecutado el script en Python para que comience a funcionar.
 En esta misma función del dashboard podemos modificar las implementaciones con interfaz, podemos ajustar cada implementación como queramos.
+
+![Tutorial4](images/9.png)
+
+En la imagen podemos observar las pruebas que he estado haciendo, así como la opción de ajustar el intervalo de tiempo, ajustes generales, etc.
+
+### Nota:
+Si es la primera vez que creas una implementación, por lógica, la implementación no se mostrará en el dashboard hasta que ejecutes el script.
+
+Una vez ejecutemos el script, podremos ver mensajes en la consola, así como la implementación en Deployments en el servidor del navegador.
 
