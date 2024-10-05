@@ -67,3 +67,14 @@ Una vez ejecutado el scrip, podremos ver las pruebas en el dashboard.
 Podemos ver en las impresiones de consola que algo ocurrió con el servidor y mando un error 404. Ahora lo verificamos en el navegador.
 
 ![Tutorial7](images/14.png)
+
+Para esto debemos ir a la función Runs para verificar el estado de los flujos.
+
+![Tutorial8](images/10.png)
+
+Ya ha habido 5 tareas fallidas debido a que el servidor se encuentra caido, aquí las podemos visualizar.
+En el panel dashboard también podemos observar las tareas totales completadas, canceladas y fallidas.
+
+![Tutorial9](images/11.png)
+
+Gracias a esta herramienta podemos crear, ejecutar y monitorear fácilmente tareas. 
