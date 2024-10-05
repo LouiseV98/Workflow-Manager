@@ -12,4 +12,4 @@ Para confirmar que Prefect fue instalado correctamente, usamos este comando:
 prefect version
 ```
 Después deberiamos poder ver algo similar a esto:
-![Tutorial](images/1.png)
+![Tutorial](images/3.png)
