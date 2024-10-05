@@ -48,6 +48,7 @@ En la imagen podemos observar las pruebas que he estado haciendo, así como la o
 ### Nota:
 Si es la primera vez que creas una implementación, por lógica, la implementación no se mostrará en el dashboard hasta que ejecutes el script.
 
+
 Una vez ejecutemos el script, podremos ver mensajes en la consola, así como la implementación en Deployments en el servidor del navegador.
 
 ![Tutorial5](images/13.png)
