@@ -53,7 +53,7 @@ Una vez ejecutemos el script, podremos ver mensajes en la consola, así como la 
 
 ![Tutorial5](images/13.png)
 
-Podemos ver que la tarea ha sido completada correctamente y que esta otra programada para ejecutarse dentro de unos segundos (30).
+Podemos ver que la tarea ha sido completada correctamente y que hay otra programada para ejecutarse dentro de unos segundos (30).
 Así podremos tener control sobre los servicios de PlayStation, ya que cada cierto tiempo el servidor estará monitoreando su estado. 
 Para el caso contrario, utilizaré la biblioteca responses para simular una caída del servidor.
 
