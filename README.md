@@ -7,3 +7,7 @@ recomienda utilizar un entorno virtual en Python:
 ```bash
 pip install -U prefect
 ```
+Para confirmar que Prefect fue instalado correctamente, usamos este comando:
+```bash
+prefect version
+```
