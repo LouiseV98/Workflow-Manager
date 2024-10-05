@@ -51,7 +51,7 @@ Si es la primera vez que creas una implementación, por lógica, la implementaci
 
 Una vez ejecutemos el script, podremos ver mensajes en la consola, así como la implementación en Deployments en el servidor del navegador.
 
-![Tutorial5](images/13.png)
+![Tutorial5](images/12.png)
 
 Podemos ver que la tarea ha sido completada correctamente y que hay otra programada para ejecutarse dentro de unos segundos (30).
 Así podremos tener control sobre los servicios de PlayStation, ya que cada cierto tiempo el servidor estará monitoreando su estado. 
