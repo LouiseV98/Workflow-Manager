@@ -36,3 +36,8 @@ pip install responses
 En el dashboard tenemos una opción llamada Deployments en la cual podemos monitorear todas las implementaciones que hemos hecho utilizando el servidor, en este caso creé una implementación llamada playstation-monitor la cual deberá aparecer en el dashboard.
 
 ![Tutorial3](images/8.png)
+
+Vendría siendo la tercera en la lista.
+De momento esta como "No Ready" ya que aun no he ejecutado el script en Python para que comience a funcionar.
+En esta misma función del dashboard podemos modificar las implementaciones con interfaz, podemos ajustar cada implementación como queramos.
+
