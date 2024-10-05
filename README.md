@@ -62,3 +62,8 @@ Podemos ver que el flujo se creó y funciona correctamente.
 También lo podemos comprobar en el dashboard.
 
 ![Tutorial6](images/13.png)
+
+Una vez ejecutado el scrip, podremos ver las pruebas en el dashboard.
+Podemos ver en las impresiones de consola que algo ocurrió con el servidor y mando un error 404. Ahora lo verificamos en el navegador.
+
+![Tutorial7](images/14.png)
